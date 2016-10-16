@@ -63,6 +63,8 @@ body {
 
 .content{
   background: silver;
+  padding: 20px;
+  margin:10px;
 }
 .container{
   margin:5px;
